@@ -1,4 +1,4 @@
-# Agent Workflow Maximization Template
+ Agent Workflow Maximization Template
 
 ## Agent Preferences
 - Auto-commit and push after every change: YES
